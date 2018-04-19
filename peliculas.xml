@@ -2,7 +2,7 @@
 
 <item>
 <title>peliculas</title>        
-<urlsolve>http://ver-peliculas.io/peliculas/en-espanol/</urlsolve>
+<beautifulsoup>http://ver-peliculas.io/peliculas/en-espanol/</beautifulsoup>
 <thumbnail>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</thumbnail>
 <fanart>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</fanart>
 </item>
